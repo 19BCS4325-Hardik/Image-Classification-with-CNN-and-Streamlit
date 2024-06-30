@@ -1,5 +1,5 @@
 streamlit
 tensorflow
-PIL
+Pillow
 numpy
 pip == 24.1.1
