@@ -2,3 +2,4 @@ streamlit
 tensorflow
 PIL
 numpy
+pip == 24.1.1
