@@ -23,7 +23,7 @@ def preprocess_image(image):
 
 
 st.title("Image Classification with CNN")
-st.write("Upload an image and the model will predict the category.")
+st.write("Simply upload a picture, and our advanced AI model will tell you if it's a building, forest, glacier, mountain, sea, or street.")
 
 # File uploader
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
