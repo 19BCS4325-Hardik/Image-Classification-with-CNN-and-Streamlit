@@ -22,7 +22,7 @@ def preprocess_image(image):
     return img_array
 
 
-st.title("Image Classification with CNN")
+st.title("Image Classification with CNN - Made with love by Hardik")
 st.write("Simply upload a picture, and our advanced AI model will tell you if it's a building, forest, glacier, mountain, sea, or street.")
 
 # File uploader
